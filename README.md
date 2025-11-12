@@ -12,7 +12,7 @@ Backend API for a real-time telemedicine application. Built with Node.js, Expres
 
 ## Prerequisites
 
-Make sure you have Node.js installed (v16 or higher recommended). You can check your version with:
+Make sure you have Node.js installed (v16). You can check your version with:
 
 ```bash
 node --version
